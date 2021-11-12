@@ -10,8 +10,8 @@ Sample command to execute the app:
 - `bash initiate_venv.sh "https://www.google.com/" true`
   - this command downloads _https://www.google.com/_ page and starts the server
     - `bash initiate_venv.sh "URL" true|false`
-  - ![Sample Screenshot](https://github.com/LF-DevOps-Intern/3_1_python-sagarchalise-rikeshkarma/blob/main/command%20execution%20for%20initate_venv.png)
+  ![Sample Screenshot](https://github.com/LF-DevOps-Intern/3_1_python-sagarchalise-rikeshkarma/blob/main/command%20execution%20for%20initate_venv.png)
 - `bash cleanup_venv.sh`
   - this command cleans up the virtualenv created before if the user wants to.
-  - ![Sample Screenshot](https://github.com/LF-DevOps-Intern/3_1_python-sagarchalise-rikeshkarma/blob/main/command%20execution%20for%20cleanup_venv.png)
+  ![Sample Screenshot](https://github.com/LF-DevOps-Intern/3_1_python-sagarchalise-rikeshkarma/blob/main/command%20execution%20for%20cleanup_venv.png)
 
